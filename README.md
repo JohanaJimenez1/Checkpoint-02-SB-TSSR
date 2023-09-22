@@ -15,3 +15,5 @@ Checkpoint 02 SB TSSR
 ![windows10](https://github.com/JohanaJimenez1/Checkpoint-02-SB-TSSR/assets/137881601/6de7ea6e-0f91-4a57-83d4-891ae28044e8)
 
 ![6](https://github.com/JohanaJimenez1/Checkpoint-02-SB-TSSR/assets/137881601/b5af3250-0a01-4492-b8bc-8780b376571b)
+
+
